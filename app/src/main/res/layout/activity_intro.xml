@@ -77,8 +77,8 @@
                     android:layout_width="200dp"
                     android:layout_height="wrap_content"
                     android:text="Siguiente"
-
-                    android:background="@drawable/intro_bnt_background"
+                    android:textSize="25sp"
+                    android:background="@drawable/bnt_background"
                     style="@android:style/Widget.Button"
                     android:textColor="@color/white"
 
